@@ -1,1 +1,1 @@
-使用win7 git命令行新建第一个仓库。
+first note for git learn
